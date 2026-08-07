@@ -1,5 +1,5 @@
 ;;; Directory Local Variables
 ;;; For more information see (info "(emacs) Directory Variables")
 
-((nil . ((gimel-auto-publish . t)
-         (gimel-api-endpoint . "http://localhost:8880"))))
+((nil . ((gimel-config-file . "/home/thawes/.config/gimel/chronos.toml")
+	 (gimel-auto-publish . t))))
